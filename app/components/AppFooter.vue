@@ -43,7 +43,7 @@ const isDark = computed({
         />
       </div>
       <div class="flex items-center justify-center lg:justify-start lg:flex-1 gap-x-1.5 mt-3 lg:mt-0 lg:order-1">
-        <span class="text-sm">hosted on<UButton
+        <span class="text-sm">hosted by&nbsp;<UButton
           to="https://JesseJese.com"
           variant="link"
           color="black"
@@ -56,7 +56,7 @@ const isDark = computed({
           color="black"
           :padded="false"
         >
-          Nuxt & Nuxthub
+          &nbsp;Nuxt&Nuxthub
         </UButton><UButton
           to="https://hub.nuxt.com/?utm_source=atidraw"
           variant="link"
