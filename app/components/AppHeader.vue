@@ -14,7 +14,7 @@ const { loggedIn, clear } = useUserSession()
       </NuxtLink>
       <div class="flex items-center justify-end lg:flex-1 gap-1.5">
         <UButton
-          to="https://git.new/draw"
+          to="https://github.com/sudo-self"
           color="gray"
           variant="ghost"
           icon="i-simple-icons-github"
