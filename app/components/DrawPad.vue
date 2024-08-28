@@ -157,7 +157,7 @@ async function save() {
       class="mt-6"
       color="amber"
       variant="subtle"
-      title="This demo is intended for the public. Please note that any sensitive or political drawings will be removed without notice."
+      title="made in public view any sensitive or political drawings will be removed without notice."
     />
   </div>
 </template>
