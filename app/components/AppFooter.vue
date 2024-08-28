@@ -56,13 +56,13 @@ const isDark = computed({
           color="black"
           :padded="false"
         >
-          &nbsp;Nuxt&Nuxthub
+          &nbsp;Nuxt &&nbsp;
         </UButton><UButton
           to="https://hub.nuxt.com/?utm_source=atidraw"
           variant="link"
           color="black"
           :padded="false"
-        >Nuxt</UButton>.</span>
+        >Nuxthub</UButton>.</span>
       </div>
     </UContainer>
   </footer>
