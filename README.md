@@ -20,10 +20,6 @@ You can deploy it with zero configuration on your Cloudflare account using NuxtH
 
 ### 🎥 See It in Action
 
-https://github.com/Atinux/atidraw/assets/904724/85f79def-f633-40b7-97c2-3a8579e65af1
-
-Ready to create? Visit [draw.nuxt.dev](https://draw.nuxt.dev) and share your best drawing!
-
 ## 🛠 Tech Stack
 
 - [Nuxt](https://nuxt.com) - The Intuitive Vue Framework
