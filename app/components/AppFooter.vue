@@ -49,14 +49,14 @@ const isDark = computed({
           color="black"
           :padded="false"
         >
-          JesseJesse.com
-        </UButton>, <UButton
-          to="https://nuxt.com/"
+          cloudflare&nbsp;
+        </UButton>JesseJesse.com&nbsp;<UButton
+          to="https://jessejesse.com"
           variant="link"
           color="black"
           :padded="false"
         >
-          made with nuxt
+          Nuxt & Nuxthub
         </UButton><UButton
           to="https://hub.nuxt.com/?utm_source=atidraw"
           variant="link"
