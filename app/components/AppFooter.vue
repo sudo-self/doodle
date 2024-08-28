@@ -1,7 +1,7 @@
 <script setup>
 const colorMode = useColorMode()
 
-// Computed
+
 const isDark = computed({
   get() {
     return colorMode.value === 'dark'
@@ -65,7 +65,7 @@ const isDark = computed({
             variant="link"
             :padded="false"
           >
-            Nuxthub
+            &nbsp;Nuxthub
           </UButton>
         </span>
       </div>
