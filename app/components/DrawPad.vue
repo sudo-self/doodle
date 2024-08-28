@@ -157,7 +157,7 @@ async function save() {
       class="mt-6"
       color="amber"
       variant="subtle"
-      title="made in public view any sensitive or political drawings will be removed without notice."
+      title="sensitive drawings or material deemed offensive against community standards will be removed."
     />
   </div>
 </template>
