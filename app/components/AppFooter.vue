@@ -42,23 +42,23 @@ const isDark = computed({
           icon="i-simple-icons-x"
         />
       </div>
-  <div class="flex items-center justify-center lg:justify-start lg:flex-1 gap-x-1.5 mt-3 lg:mt-0 lg:order-1">
+      
+ <div class="flex items-center justify-center lg:justify-start lg:flex-1 gap-x-1.5 mt-3 lg:mt-0 lg:order-1">
   <span class="text-sm">
     hosted by&nbsp;
     <UButton
       to="https://JesseJese.com"
       variant="link"
-      color="black"
+      class="text-orange-500" <!-- Apply the orange color -->
       :padded="false"
-      class="text-orange-500" <!-- Tailwind class for orange color -->
     >
       cloudflare&nbsp;
     </UButton>
-    <span class="text-green-500">JesseJesse</span>.com&nbsp; <!-- Tailwind class for green color -->
+    <span class="text-green-500">JesseJesse</span>.com&nbsp; <!-- Apply the green color -->
     <UButton
       to="https://jessejesse.com"
       variant="link"
-      color="black"
+      class="text-black" <!-- If needed, apply black color via Tailwind class -->
       :padded="false"
     >
       &nbsp;Nuxt &&nbsp;
@@ -66,13 +66,14 @@ const isDark = computed({
     <UButton
       to="https://hub.nuxt.com/?utm_source=atidraw"
       variant="link"
-      color="black"
+      class="text-black" <!-- If needed, apply black color via Tailwind class -->
       :padded="false"
     >
       Nuxthub
-    </UButton>
+    </UButton>.
   </span>
 </div>
+
     </UContainer>
   </footer>
 </template>
