@@ -10,7 +10,7 @@ const { loggedIn, clear } = useUserSession()
         class="flex items-center gap-1 flex-shrink-0 font-bold text-xl text-gray-900 dark:text-white flex items-end gap-1.5"
       >
         <UIcon name="i-ph-image-square-duotone" />
-        <h3>doodle.nuxt</h3>
+        <h3>doodle.nuxt.dev</h3>
       </NuxtLink>
       <div class="flex items-center justify-end lg:flex-1 gap-1.5">
         <UButton
