@@ -1,4 +1,4 @@
-# Draw and share your Art with Atidraw 🎨✨
+# Draw and share your Art 🎨✨
 
 Atidraw is a web application that lets you to create, enhance, and share your drawings with the world. Harnessing the power of Cloudflare R2 and Cloudflare AI to store and enhance your drawings. 
 
