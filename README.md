@@ -1,1 +1,1 @@
-# [Draw and share Art](https://doodle.nuxt.dev/)
+# [draw and share your doodles](https://doodle.nuxt.dev/)
