@@ -49,7 +49,7 @@ const isDark = computed({
             to="https://JesseJese.com"
             variant="link"
             :padded="false"
-            class="text-orange-500" <!-- Use class to style color -->
+            class="text-orange-500"
           >
             cloudflare&nbsp;
           </UButton>
@@ -62,7 +62,7 @@ const isDark = computed({
             &nbsp;Nuxt &&nbsp;
           </UButton>
           <UButton
-            to="https://hub.nuxt.com/?utm_source=atidraw"
+            to="https://hub.nuxt.com/"
             variant="link"
             :padded="false"
           >
