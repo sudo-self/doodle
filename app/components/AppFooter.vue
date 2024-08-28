@@ -30,33 +30,33 @@ const isDark = computed({
           </template>
         </ClientOnly>
         <UButton
-          to="https://git.new/draw"
+          to="https://gihub.com/sudo-self"
           color="gray"
           variant="ghost"
           icon="i-simple-icons-github"
         />
         <UButton
-          to="https://x.com/atinux"
+          to="https://x.com/ilostmyipad"
           color="gray"
           variant="ghost"
           icon="i-simple-icons-x"
         />
       </div>
       <div class="flex items-center justify-center lg:justify-start lg:flex-1 gap-x-1.5 mt-3 lg:mt-0 lg:order-1">
-        <span class="text-sm">Made with <UButton
-          to="https://nuxt.com/?utm_source=atidraw"
+        <span class="text-sm">hosted by<UButton
+          to="https://JesseJese.com"
+          variant="link"
+          color="black"
+          :padded="false"
+        >
+          JesseJesse.com
+        </UButton>, <UButton
+          to="https://nuxt.com/"
           variant="link"
           color="black"
           :padded="false"
         >
           Nuxt
-        </UButton>, <UButton
-          to="https://ui.nuxt.com/?utm_source=atidraw"
-          variant="link"
-          color="black"
-          :padded="false"
-        >
-          Nuxt UI
         </UButton> & <UButton
           to="https://hub.nuxt.com/?utm_source=atidraw"
           variant="link"
