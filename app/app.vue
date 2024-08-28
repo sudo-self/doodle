@@ -3,7 +3,7 @@ import { useSeoMeta } from '#app';
 
 // Set SEO meta information
 useSeoMeta({
-  title: 'Share Your Doodles',
+  title: 'Doodles',
   description: 'Doodle Nuxt is a web application that lets you create, enhance, and share your drawings with the world. Harnessing the power of Cloudflare R2 and Cloudflare AI to store and enhance your drawings.',
   ogTitle: 'Doodle',
   ogImage: 'https://pub-c1de1cb456e74d6bbbee111ba9e6c757.r2.dev/icon512.png?theme=light',
