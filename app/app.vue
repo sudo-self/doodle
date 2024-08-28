@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { useSeoMeta, useServerHead } from '#app'; // Adjust import based on your Nuxt setup
+import { useSeoMeta } from '#app';
 
 // Set SEO meta information
 useSeoMeta({
@@ -8,14 +8,6 @@ useSeoMeta({
   ogTitle: 'Doodle',
   ogImage: 'https://pub-c1de1cb456e74d6bbbee111ba9e6c757.r2.dev/icon512.png?theme=light',
   twitterCard: 'summary_large_image'
-});
-
-// Set server-side head meta tags
-useServerHead({
-  meta: [
-    { name: 'description', content: 'Doodle Nuxt Dev' },
-    { name: 'keywords', content: 'doodle, nuxt, dev, share' }
-  ]
 });
 </script>
 
