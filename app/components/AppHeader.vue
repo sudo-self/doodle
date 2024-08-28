@@ -9,7 +9,7 @@ const { loggedIn, clear } = useUserSession()
         to="/"
         class="flex items-center gap-1 flex-shrink-0 font-bold text-xl text-gray-900 dark:text-white flex items-end gap-1.5"
       >
-        <UIcon name="i-ph-image-square-duotone" />
+        <img src="https://doodle.nuxt.dev/favicon.ico" alt="Custom Icon" class="w-8 h-8" />
         <h3>doodle.nuxt.dev</h3>
       </NuxtLink>
       <div class="flex items-center justify-end lg:flex-1 gap-1.5">
