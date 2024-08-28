@@ -44,14 +44,13 @@ const isDark = computed({
       </div>
       <div class="flex items-center justify-center lg:justify-start lg:flex-1 gap-x-1.5 mt-3 lg:mt-0 lg:order-1">
         <span class="text-sm">
-          hosted on&nbsp;
           <UButton
             to="https://cloudflare.com"
             variant="link"
             :padded="false"
-            class="text-orange-700"
+            class="text-orange-600"
           >
-          Cloudflare Pages&nbsp;by&nbsp;
+          Cloudflare&nbsp;
           </UButton>
           <span class="text-green-700">JesseJesse.com</span>&nbsp;
           <UButton
@@ -59,7 +58,7 @@ const isDark = computed({
             variant="link"
             :padded="false"
           >
-            &nbsp;Nuxt&nbsp;&
+            Nuxt&nbsp;&
           </UButton>
           <UButton
             to="https://hub.nuxt.com/"
