@@ -52,13 +52,12 @@ const isDark = computed({
           >
           Cloudflare&nbsp;
           </UButton>
-          <span class="text-green-700">JesseJesse.com</span>&nbsp;
           <UButton
             to="https://jessejesse.com"
             variant="link"
             :padded="false"
           >
-            Nuxt|
+           <span class="text-green-700">JesseJesse.com</span>&nbsp;
           </UButton>
           <UButton
             to="https://hub.nuxt.com/"
