@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { useSeoMeta } from '#app';
 
-// Set SEO meta information
+//SEO
 useSeoMeta({
   title: 'Doodles',
   description: 'Doodle Nuxt is a web application that lets you create, enhance, and share your drawings with the world. Harnessing the power of Cloudflare R2 and Cloudflare AI to store and enhance your drawings.',
