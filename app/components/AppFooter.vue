@@ -30,7 +30,7 @@ const isDark = computed({
           </template>
         </ClientOnly>
         <UButton
-          to="https://gihub.com/sudo-self"
+          to="https://github.com/sudo-self/doodle/"
           color="gray"
           variant="ghost"
           icon="i-simple-icons-github"
