@@ -8,7 +8,8 @@ const { loggedIn, clear } = useUserSession()
       <NuxtLink
         to="/"
         class="flex items-center gap-1 flex-shrink-0 font-bold text-xl text-gray-900 dark:text-white flex items-end gap-1.5"   >
-<a
+      </NuxtLink>
+      <a
   href="https://doodle.jessejesse.com"
   class="flex items-center gap-1 flex-shrink-0 font-bold text-xl text-gray-900 dark:text-white no-underline"
   style="text-decoration: none;"
@@ -18,7 +19,7 @@ const { loggedIn, clear } = useUserSession()
     <span style="color:#34b334;">doodle</span>.JesseJesse
   </h6>
 </a>
-      </NuxtLink>
+    
       <div class="flex items-center justify-end lg:flex-1 gap-1.5">
         <UButton
           to="https://github.com/sudo-self/doodle/"
