@@ -48,7 +48,7 @@ const isDark = computed({
             to="https://cloudflare.com"
             variant="link"
             :padded="false"
-            class="text-orange-600"
+            class="text-orange-700"
           >
           Cloudflare&nbsp;&nbsp;
           </UButton>
