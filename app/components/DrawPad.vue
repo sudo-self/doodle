@@ -68,7 +68,7 @@ function undo() {
   if (!signaturePad.value) return
   const data = signaturePad.value.toData()
   if (data) {
-    data.pop() // remove the last dot or line
+    data.pop()
     signaturePad.value.fromData(data)
     canPost.value = !signaturePad.value.isEmpty()
   }
@@ -157,7 +157,7 @@ async function save() {
       class="mt-6"
       color="amber"
       variant="subtle"
-      title="sensitive drawings or material deemed offensive against community standards will be removed."
+      title="drawings that violate community standards will be removed"
     />
   </div>
 </template>
