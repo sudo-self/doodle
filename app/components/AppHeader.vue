@@ -7,14 +7,17 @@ const { loggedIn, clear } = useUserSession()
     <UContainer class="flex items-center justify-between gap-3 h-16 bg-gray-400/5 md:rounded-full border-b md:border dark:border-gray-800 bg-gray-50 dark:bg-gray-950">
       <NuxtLink
         to="/"
-        class="flex items-center gap-1 flex-shrink-0 font-bold text-xl text-gray-900 dark:text-white flex items-end gap-1.5"
-      >
-        <img src="https://doodle.jessejesse.com/junior.png" alt="Custom Icon" class="w-8 h-8" />
-       <h6>
-  <a href="https://doodle.jessejesse.com" style="color: inherit; text-decoration: none;">
+        class="flex items-center gap-1 flex-shrink-0 font-bold text-xl text-gray-900 dark:text-white flex items-end gap-1.5"   >
+<a
+  href="https://doodle.jessejesse.com"
+  class="flex items-center gap-1 flex-shrink-0 font-bold text-xl text-gray-900 dark:text-white no-underline"
+  style="text-decoration: none;"
+>
+  <img src="https://doodle.jessejesse.com/junior.png" alt="Custom Icon" class="w-8 h-8" />
+  <h6 class="flex items-end gap-1.5">
     <span style="color:#34b334;">doodle</span>.JesseJesse
-  </a>
-</h6>
+  </h6>
+</a>
       </NuxtLink>
       <div class="flex items-center justify-end lg:flex-1 gap-1.5">
         <UButton
