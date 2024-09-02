@@ -11,7 +11,6 @@ const isDark = computed({
   },
 })
 </script>
-
 <template>
   <footer>
     <UContainer class="py-8 lg:py-4 lg:flex lg:items-center lg:justify-between lg:gap-x-3">
@@ -24,7 +23,6 @@ const isDark = computed({
             variant="ghost"
             @click="isDark = !isDark"
           />
-
           <template #fallback>
             <div class="w-8 h-8" />
           </template>
@@ -56,8 +54,7 @@ const isDark = computed({
             to="https://jessejesse.com"
             variant="link"
             :padded="false"
-          >
-           <span class="text-green-700">JesseJesse</span>&nbsp;
+          ><span class="text-green-700">JesseJesse</span>&nbsp;
           </UButton>
           <UButton
             to="https://hub.nuxt.com/"
@@ -70,4 +67,3 @@ const isDark = computed({
     </UContainer>
   </footer>
 </template>
-
