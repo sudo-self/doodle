@@ -1,6 +1,7 @@
 ## [draw and share your doodles](https://doodle.nuxt.dev/)
 
-<img width="1440" alt="Screenshot 2024-08-28 at 7 55 02 PM" src="https://github.com/user-attachments/assets/27d832a8-92e1-43a9-a96b-c0990c0a617d">
+<img width="1440" alt="Screenshot 2024-09-02 at 2 13 56 PM" src="https://github.com/user-attachments/assets/dcb40d17-9071-4a9a-a669-f8b5b58117c9">
+
 
 ### [Android APK](https://doodle.nuxt.dev/doodle.apk)
 
