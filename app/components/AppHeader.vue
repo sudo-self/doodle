@@ -12,7 +12,7 @@ const { loggedIn, clear } = useUserSession()
         <img src="https://doodle.jessejesse.com/junior.png" alt="Custom Icon" class="w-8 h-8" />
        <h6>
   <a href="https://doodle.jessejesse.com" style="color: inherit; text-decoration: none;">
-    <span style="color: purple;">doodle</span>.JesseJesse
+    <span style="color:#34b334;">doodle</span>.JesseJesse
   </a>
 </h6>
       </NuxtLink>
