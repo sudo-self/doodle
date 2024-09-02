@@ -57,7 +57,7 @@ const isDark = computed({
             variant="link"
             :padded="false"
           >
-           <span class="text-green-700">JesseJesse.com</span>&nbsp;
+           <span class="text-green-700">JesseJesse</span>&nbsp;
           </UButton>
           <UButton
             to="https://hub.nuxt.com/"
