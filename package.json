@@ -1,5 +1,5 @@
 {
-  "name": "doodle",
+  "name": "doodle-share",
   "private": true,
   "type": "module",
   "packageManager": "pnpm@9.8.0",
