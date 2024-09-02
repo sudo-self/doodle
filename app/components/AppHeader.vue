@@ -10,7 +10,11 @@ const { loggedIn, clear } = useUserSession()
         class="flex items-center gap-1 flex-shrink-0 font-bold text-xl text-gray-900 dark:text-white flex items-end gap-1.5"
       >
         <img src="https://doodle.jessejesse.com/junior.png" alt="Custom Icon" class="w-8 h-8" />
-        <h6>doodle.JesseJesse</h6>
+       <h6>
+  <a href="https://doodle.jessejesse.com" style="color: inherit; text-decoration: none;">
+    <span style="color: purple;">doodle</span>.JesseJesse
+  </a>
+</h6>
       </NuxtLink>
       <div class="flex items-center justify-end lg:flex-1 gap-1.5">
         <UButton
