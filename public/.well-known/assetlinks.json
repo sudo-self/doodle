@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "doodle",
+    "package_name": "com.jessejesse.doodle.twa",
+    "sha256_cert_fingerprints":
+    ["CD:7E:AA:5D:27:90:29:8C:59:95:11:55:14:89:43:47:05:22:6A:79:E6:68:9D:22:81:FF:38:00:A3:AD:0D:9E"]
+  }
+}]
