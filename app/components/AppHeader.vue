@@ -16,7 +16,7 @@ const { loggedIn, clear } = useUserSession()
 >
   <img src="https://doodle.jessejesse.com/junior.png" alt="Custom Icon" class="w-8 h-8" />
   <h6 class="flex items-end gap-1.5">
-    <span style="color:#34b334;">doodle</span>.JesseJesse
+    <span style="color:#34b334;">doodle</span>share
   </h6>
 </a>
     
