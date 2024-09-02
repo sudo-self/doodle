@@ -50,7 +50,7 @@ const isDark = computed({
             :padded="false"
             class="text-orange-600"
           >
-          Cloudflare&nbsp;
+          Cloudflare&nbsp;&nbsp;
           </UButton>
           <UButton
             to="https://jessejesse.com"
