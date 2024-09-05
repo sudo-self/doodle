@@ -14,9 +14,9 @@ const { loggedIn, clear } = useUserSession()
   class="flex items-center gap-1 flex-shrink-0 font-bold text-xl text-gray-900 dark:text-white no-underline"
   style="text-decoration: none;"
 >
-  <img src="https://doodle.jessejesse.com/junior.png" alt="Custom Icon" class="w-8 h-8" />
+  <img src="https://doodles.jessejesse.com/icon-round-196x196.png" alt="Custom Icon" class="w-8 h-8" />
   <h6 class="flex items-end gap-1.5">
-    <span style="color:#34b334;">doodle</span>share
+    <span style="color:#34b334;">doodle</span>share.nuxt.dev
   </h6>
 </a>
     
