@@ -10,13 +10,13 @@ const { loggedIn, clear } = useUserSession()
         class="flex items-center gap-1 flex-shrink-0 font-bold text-xl text-gray-900 dark:text-white flex items-end gap-1.5"   >
       </NuxtLink>
       <a
-  href="https://doodle.jessejesse.com"
+  href="https://jessejesse.xyz"
   class="flex items-center gap-1 flex-shrink-0 font-bold text-xl text-gray-900 dark:text-white no-underline"
   style="text-decoration: none;"
 >
   <img src="https://doodles.jessejesse.com/icon-round-196x196.png" alt="Custom Icon" class="w-8 h-8" />
   <h6 class="flex items-end gap-1.5">
-    <span style="color:#34b334;">doodle</span>share
+    <span style="color:#34b334;">doodle</span>xyz
   </h6>
 </a>
     
